@@ -15,6 +15,7 @@ Ein Transistor dient als Schalter, kann aber auch als Verstärker genutzt werden
 Es wurde eine NOT,UND, Oder und eine Transistor Verstärkerschaltung simuliert, realisiert und durchgemessen.
 
 ## 3.  Theorie
+
 Wie werden Transistoren eingesetzt um logische Funktionen (Und, Oder, Nicht) zu realisieren?
 A: Die Transistoren werden als Schalter benutzt, um logische 1er und 0er zu simulieren. 
 Sie werden dann mit Dioden und Widerständen kombiniert, um logische Berechnnungen durchzuführen. 
