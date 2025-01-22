@@ -57,6 +57,8 @@ Transistoren haben eine maximale Eingangsspannung, die nicht übertreten werden 
 
 Transistoren haben einen maximalen Eingangsstrom, der ebenfalls nicht übertreten werden darf, sonst besteht der Fall, dass der Transistor beschädigt wird.
 
+Auch wenn an der Basis 0 Volt anliegt, lässt der Transistor trotzdem einen sehr kleinen Kollektorstrom durch.
+
 Wie funktioniert die Verstärkung von Signalen mittels Transistor?
 
 Transistoren können als Verstärker eingesetzt werden, um schwache elektrische Signale zu verstärken. 
