@@ -72,7 +72,8 @@ Das resultierende Ausgangssignal ist ein verstärktes Signal im Vergleich zum Ei
 
 Wie hoch ist der Verstärkungsfaktor eines Transistors, und wie berechnet sich dieser?
 
-Je nach Bauart 100 bis 100.000. 
+Je nach Bauart 100 bis 1000. 
+
 Dieser Faktor kann durch die Formel: B = Ic/Ib berechnet werden.
 
 Erkläre deine aufgebaute Schaltung.
