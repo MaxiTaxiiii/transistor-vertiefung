@@ -62,6 +62,7 @@ Wie funktioniert die Verstärkung von Signalen mittels Transistor?
 Transistoren können als Verstärker eingesetzt werden, um schwache elektrische Signale zu verstärken. 
 
 Dies geschieht durch die Steuerung eines großen Ausgangsstroms mit einem kleinen Eingangsstrom an der Basis des Transistors.
+
 Ein kleiner Strom an der Basis eines Transistors beeinflusst den größeren Kollektorstrom.
 
 Das schwache Eingangssignal wird an die Basis des Transistors angelegt.
