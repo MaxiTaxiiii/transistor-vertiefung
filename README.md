@@ -165,12 +165,6 @@ Basisspannung 1. Transistor: 2 mV
 
 Basisspannung 2. Transistor: 0,47 V
 
-Ib = 18 nA
-
-Ic = 9,34 mA
-
-B = 18/9,34 = 518.890
-
 Kippschaltung aufbauen
 
 <img src="img/Kippschaltung.jpg" style="zoom:33%;" />
