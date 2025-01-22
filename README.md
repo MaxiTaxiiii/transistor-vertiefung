@@ -90,6 +90,8 @@ AND-Schaltung simulieren und aufbauen
 
 <img src="img/AndSchaltung.jpg" style="zoom:33%;" />
 
+Messschaltung
+
 <img src="img/messschaltung2.png" style="zoom:33%;" />
 
 AND-Schaltung messen 
@@ -113,7 +115,7 @@ OR-Schaltung simulieren und aufbauen
 
 Messschaltung
 
-<img src="messschaltung2.png" style="zoom:33%;" />
+<img src="img/messschaltung2.png" style="zoom:33%;" />
 
 OR-Schaltung messen
 
