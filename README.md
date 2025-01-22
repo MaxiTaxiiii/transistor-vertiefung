@@ -16,7 +16,7 @@ Es wurde eine NOT, UND, ODER und eine Transistor Verstärkerschaltung simuliert,
 
 ## 3.  Theorie
 
-Wie werden Transistoren eingesetzt um logische Funktionen (Und, Oder, Nicht) zu realisieren?
+**Wie werden Transistoren eingesetzt um logische Funktionen (Und, Oder, Nicht) zu realisieren?**
 
 Die Transistoren werden als Schalter benutzt, um logische 1er und 0er zu simulieren, zudem können Transistoren als Verstärker benutzt werden.
 Sie werden dann mit Dioden und Widerständen kombiniert, um logische Berechnungen durchzuführen. 
@@ -47,7 +47,7 @@ Der Ausgang ist LOW (0), wenn der Eingang HIGH (1) ist.
 
 <img src="img/nicht-tabelle.png" style="zoom:33%;" />
 
-Welche Einschränkungen sind dabei zu beachten?
+**Welche Einschränkungen sind dabei zu beachten?**
 
 **Spannung**
 
@@ -59,7 +59,7 @@ Transistoren haben einen maximalen Eingangsstrom, der ebenfalls nicht übertrete
 
 Auch wenn an der Basis 0 Volt anliegt, lässt der Transistor trotzdem einen sehr kleinen Kollektorstrom durch.
 
-Wie funktioniert die Verstärkung von Signalen mittels Transistor?
+**Wie funktioniert die Verstärkung von Signalen mittels Transistor?**
 
 Transistoren können als Verstärker eingesetzt werden, um schwache elektrische Signale zu verstärken. 
 
@@ -73,13 +73,13 @@ Der Transistor verstärkt das Signal, indem er den Kollektorstrom in Abhängigke
 
 Das resultierende Ausgangssignal ist ein verstärktes Signal im Vergleich zum Eingang.
 
-Wie hoch ist der Verstärkungsfaktor eines Transistors, und wie berechnet sich dieser?
+**Wie hoch ist der Verstärkungsfaktor eines Transistors, und wie berechnet sich dieser?**
 
 Je nach Bauart 100 bis 1000. 
 
 Dieser Faktor kann durch die Formel: B = Ic/Ib berechnet werden.
 
-Erkläre deine aufgebaute Schaltung.
+**Erkläre deine aufgebaute Schaltung.**
 
 <img src="img/Schaltplan-Verstärkerschaltung.jpg" style="zoom:33%;" />
 
